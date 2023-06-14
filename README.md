@@ -3,7 +3,7 @@
 A simple text editor built with React that allows users to enter and manipulate text in various ways.
 
 ## Home page
-[Home Page](https://github-production-user-asset-6210df.s3.amazonaws.com/108184610/245686671-2ec37396-8576-4814-9734-36dd9bb6d98a.png)
+![Home Page](https://github-production-user-asset-6210df.s3.amazonaws.com/108184610/245686671-2ec37396-8576-4814-9734-36dd9bb6d98a.png)
 
 ## Features
 
